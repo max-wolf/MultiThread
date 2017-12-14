@@ -1,3 +1,5 @@
+//Two threads are in deadlock status
+
 public class Deadlock {
     public static Object obj1 = new Object();
     public static Object obj2 = new Object();
